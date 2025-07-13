@@ -7,7 +7,8 @@ int main(int argc, char* argv[]) {
     std::string expression;
     std::cin >> expression;
 
-    const std::vector<std::pair<std::string, std::string>> final_representaion;
-    final_representaion = lexer(expression);
+    Lexer lexer(expression);
+
+    lexer.lexerJob();
     return 0;
 }
