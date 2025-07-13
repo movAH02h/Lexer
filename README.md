@@ -1,2 +1,1 @@
-# Lexer
-Building a Lexer
+It is the first project related to Compiler development
