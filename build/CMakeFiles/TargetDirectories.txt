@@ -1,0 +1,3 @@
+/home/kirill/Lexer/build/CMakeFiles/lexer.dir
+/home/kirill/Lexer/build/CMakeFiles/edit_cache.dir
+/home/kirill/Lexer/build/CMakeFiles/rebuild_cache.dir

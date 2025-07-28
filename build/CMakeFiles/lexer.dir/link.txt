@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lexer.dir/main.cpp.o CMakeFiles/lexer.dir/lexer.cpp.o -o lexer 
